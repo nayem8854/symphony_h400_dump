@@ -1,0 +1,14 @@
+﻿MediaTek Device Info list
+Created by Infinity-Box (c) Chinese Miracle II (c) 2016
+
+
+Supported BootLoader HW : 
+FlashID [0] CID : 150100463732324D42 , Name : F722MB , Vendor : 15 , [SAMSUNG]
+FlashID [1] CID : 150100513832334D42 , Name : Q823MB , Vendor : 15 , [SAMSUNG]
+FlashID [2] CID : 150100514531334D42 , Name : QE13MB , Vendor : 15 , [SAMSUNG]
+
+Device Memory Details ( installed ) : 
+RAM : [2 GiB]
+ROM : eMMC 16 GiB
+Manufacturer : [SAMSUNG]
+Name : BM328

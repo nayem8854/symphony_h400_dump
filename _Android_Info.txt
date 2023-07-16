@@ -1,0 +1,12 @@
+﻿Credit: www.Needrombd.com  & www.Forum.needrombd.com
+Created by Infinity-Box (c) Chinese Miracle II (c) 2016
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::
+Device Brand   : Symphony
+Device Model   : H400
+Device CPU     : MT6735
+Device IntName : H400
+Device Version : 6.0
+Device Compile : 9/1/2016 2:43:00 AM
+Device Project : alps-mp-m0.mp1-V2.39.1_pri6735.65u.m0_P23
+Device ExtInfo : H400
+

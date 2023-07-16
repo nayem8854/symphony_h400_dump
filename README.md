@@ -1,0 +1,14 @@
+# full_pri6735_65u_m0-user 6.0 MRA58K 1472697574 release-keys
+- manufacturer: symphony
+- platform: mt6735
+- codename: H400
+- flavor: full_pri6735_65u_m0-user
+- release: 6.0
+- id: MRA58K
+- incremental: 1472697574
+- tags: release-keys
+- fingerprint: Symphony/H400/H400:6.0/MRA58K/1472697574:user/release-keys
+- is_ab: false
+- brand: Symphony
+- branch: full_pri6735_65u_m0-user-6.0-MRA58K-1472697574-release-keys
+- repo: symphony_h400_dump
